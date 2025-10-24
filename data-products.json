@@ -1,0 +1,35 @@
+[
+  {
+    "id": "p01",
+    "title": "Vase céramique années 50",
+    "price": 220.0,
+    "category": "Céramique",
+    "image": "images/vase.jpg",
+    "description": "Vase en céramique émaillée, belle patine, France, circa 1950.",
+    "dimensions": "H 28 cm x Ø 12 cm",
+    "etat": "Très bon état (micro-rayures)",
+    "epoque": "Années 50"
+  },
+  {
+    "id": "p02",
+    "title": "Lustre verre soufflé",
+    "price": 480.0,
+    "category": "Luminaires",
+    "image": "images/lustre.jpg",
+    "description": "Suspension en verre soufflé avec éléments d'origine.",
+    "dimensions": "H 45 cm x Ø 40 cm",
+    "etat": "Bon état",
+    "epoque": "Années 60"
+  },
+  {
+    "id": "p03",
+    "title": "Gravure décorative",
+    "price": 95.0,
+    "category": "Art",
+    "image": "images/gravure.jpg",
+    "description": "Gravure encadrée, restaurations anciennes visibles.",
+    "dimensions": "30 x 40 cm (cadre)",
+    "etat": "Restauration ancienne",
+    "epoque": "Début XXᵉ"
+  }
+]

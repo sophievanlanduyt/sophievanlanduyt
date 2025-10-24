@@ -1,0 +1,21 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "produits"
+    label: "produits"
+    folder: "produits"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Catégorie", name: "categorie", widget: "select", options: ["Art", "Céramique", "Verreries", "Curiosités", "Mobilier", "Luminaires"]}
+      - {label: "Description", name: "body", widget: "markdown"}
+      - {label: "Époque", name: "epoque", widget: "string"}
+      - {label: "Dimensions", name: "dimensions", widget: "string"}
+      - {label: "État", name: "etat", widget: "string"}
+      - {label: "Photo principale", name: "image", widget: "image"}
