@@ -2,7 +2,7 @@
   {
     "id": "p01",
     "title": "Vase céramique années 50",
-    "price": 220.0,
+    "price": 85,
     "category": "Céramique",
     "image": "images/vase.jpg",
     "description": "Vase en céramique émaillée, belle patine, France, circa 1950.",
@@ -12,24 +12,57 @@
   },
   {
     "id": "p02",
-    "title": "Lustre verre soufflé",
-    "price": 480.0,
+    "title": "Lampe brutaliste en céramique signée",
+    "price": 120,
     "category": "Luminaires",
     "image": "images/lustre.jpg",
-    "description": "Suspension en verre soufflé avec éléments d'origine.",
+    "description": "Lampe brutaliste en céramique signée.",
     "dimensions": "H 45 cm x Ø 40 cm",
     "etat": "Bon état",
     "epoque": "Années 60"
   },
   {
     "id": "p03",
-    "title": "Gravure décorative",
+    "title": "Portait de jeune flamande",
     "price": 95.0,
     "category": "Art",
     "image": "images/gravure.jpg",
-    "description": "Gravure encadrée, restaurations anciennes visibles.",
+    "description": "Portrait de jeune flamande sur panneau.",
     "dimensions": "30 x 40 cm (cadre)",
     "etat": "Restauration ancienne",
     "epoque": "Début XXᵉ"
+  },
+   {
+    "id": "p04",
+    "title": "Laurel Burch série de chats en bois peint",
+    "price": 95.0,
+    "category": "Art",
+    "image": "images/curiosites.jpg",
+    "description": "Lot de 4 chats en bois peint par Laurel Burch",
+    "dimensions": "30 x 40 cm ",
+    "etat": "Restauration ancienne",
+    "epoque": "Seconde moitié du XXᵉ"
+  },
+   {
+    "id": "p05",
+    "title": "Table basse en céramique brutaliste",
+    "price": 300,
+    "category": "Art",
+    "image": "images/mobilier.jpg",
+    "description": "Table basse en céramique brutaliste circa 1960",
+    "dimensions": "150 x 220 cm ",
+    "etat": "Restauration ancienne",
+    "epoque": "Seconde moitié du XXᵉ"
+  },
+   {
+    "id": "p06",
+    "title": "Plat Luxval du Val saint-Lambert",
+    "price": 95.0,
+    "category": "Art",
+    "image": "images/gravure.jpg",
+    "description": "Plat Luxval en céramique du milieu du Val saint-Lambert du début du XXème. ",
+    "dimensions": "30 x 30 cm",
+    "etat": "Restauration ancienne",
+    "epoque": "Milieur XXᵉ"
   }
 ]
